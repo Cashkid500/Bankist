@@ -1,6 +1,6 @@
 # Bankist
 
-Bankist is a web app that allows registered users to access the platform by logging in with the correct login credentials to perform banking transactions such as transfer to other registered users, request for loan as well as account closure. 
+Bankist is a web app that allows registered users to access the platform by logging in with the correct login credentials to perform banking transactions such as transfer to other registered users, request for loan as well as account closure.
 
 Detailed instructions can be seen in the flowchart below:
 
